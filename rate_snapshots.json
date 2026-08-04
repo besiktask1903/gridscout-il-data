@@ -1,0 +1,53 @@
+{
+  "snapshots": [
+    {
+      "month": "2026-08",
+      "type": "electric",
+      "date": "2026-08-04T18:43:40.797800Z",
+      "rates": {
+        "comed": {
+          "name": "ComEd",
+          "rate": 0.10398999999999999,
+          "rate_unit": "kWh"
+        },
+        "ameren_zone_1": {
+          "name": "Ameren Illinois Rate Zone I",
+          "rate": 0.11320000000000001,
+          "rate_unit": "kWh"
+        },
+        "ameren_zone_2": {
+          "name": "Ameren Illinois Rate Zone II",
+          "rate": 0.11320000000000001,
+          "rate_unit": "kWh"
+        },
+        "ameren_zone_3": {
+          "name": "Ameren Illinois Rate Zone III",
+          "rate": 0.11320000000000001,
+          "rate_unit": "kWh"
+        }
+      }
+    },
+    {
+      "month": "2026-08",
+      "type": "gas",
+      "date": "2026-08-04T18:43:42.551224Z",
+      "rates": {
+        "north_shore_gas": {
+          "name": "North Shore Gas",
+          "rate": 0.4093,
+          "rate_unit": "therm"
+        },
+        "nicor_gas": {
+          "name": "Nicor Gas",
+          "rate": 0.36,
+          "rate_unit": "therm"
+        },
+        "peoples_gas": {
+          "name": "Peoples Gas",
+          "rate": 0.3672,
+          "rate_unit": "therm"
+        }
+      }
+    }
+  ]
+}
