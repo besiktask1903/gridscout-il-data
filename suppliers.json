@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-31T23:38:22.154890Z",
+  "last_updated": "2026-09-01T03:46:49.592834Z",
   "customer_class": "residential",
   "utilities": {
     "north_shore_gas": {
       "name": "North Shore Gas",
       "rate_unit": "therm",
       "sco_rate": 0.4093,
-      "sco_effective_date": "2026-08-01",
+      "sco_effective_date": "2026-09-01",
       "sco_previous_rate": null,
       "sco_previous_date": null,
       "suppliers": [
@@ -445,14 +445,14 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-08-31T23:38:20.836956Z",
+      "last_fetched": "2026-09-01T03:46:48.634521Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=1"
     },
     "nicor_gas": {
       "name": "Nicor Gas",
       "rate_unit": "therm",
       "sco_rate": 0.36,
-      "sco_effective_date": "2026-08-01",
+      "sco_effective_date": "2026-09-01",
       "sco_previous_rate": null,
       "sco_previous_date": null,
       "suppliers": [
@@ -891,14 +891,14 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-08-31T23:38:21.530790Z",
+      "last_fetched": "2026-09-01T03:46:49.116923Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=2"
     },
     "peoples_gas": {
       "name": "Peoples Gas",
       "rate_unit": "therm",
       "sco_rate": 0.3672,
-      "sco_effective_date": "2026-08-01",
+      "sco_effective_date": "2026-09-01",
       "sco_previous_rate": null,
       "sco_previous_date": null,
       "suppliers": [
@@ -1319,7 +1319,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-08-31T23:38:22.154818Z",
+      "last_fetched": "2026-09-01T03:46:49.592756Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=3"
     }
   }
