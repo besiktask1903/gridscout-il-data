@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T16:07:45.099782Z",
+  "last_updated": "2026-09-01T20:37:07.693330Z",
   "customer_class": "residential",
   "utilities": {
     "north_shore_gas": {
@@ -169,24 +169,6 @@
           "website_url": "https://icc.illinois.gov/natural-gas-choice/products/product/259025",
           "signup_url": "https://icc.illinois.gov/natural-gas-choice/products/product/259025",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "offer_id": "259078",
-          "product_name": null,
-          "name": "SFE Energy",
-          "rate": 0.459,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Eco Natural Gas Product - 12 month embedded green fixed price product of 0.459 per therm. 25% carbon offset. No termination fee. Customer charge of $1.29 per day. LED bulb incentive. Please contact 1-877-698-0608. Eligibility/Limitations Residential customers only.",
-          "monthly_fee": 1.29,
-          "website_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "signup_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -425,7 +407,25 @@
           "service_area": null
         },
         {
-          "offer_id": "269490",
+          "offer_id": "269493",
+          "product_name": null,
+          "name": "SFE Energy",
+          "rate": 0.459,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 48,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "Eco Natural Gas Product - 48 month embedded green fixed price product of 0.459 per therm. 25% carbon offset. No termination fee. Customer charge of $1.39 per day. LED bulb incentive. Please contact 1-877-698-0608. Eligibility/Limitations Residential customers only.",
+          "monthly_fee": 1.39,
+          "website_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
+          "signup_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "offer_id": "269494",
           "product_name": null,
           "name": "Illinois Energy",
           "rate": 0.659,
@@ -445,7 +445,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-01T16:07:43.559856Z",
+      "last_fetched": "2026-09-01T20:37:06.760391Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=1"
     },
     "nicor_gas": {
@@ -615,24 +615,6 @@
           "website_url": "https://justenergy.com/ilchoice/",
           "signup_url": "https://justenergy.com/ilchoice/",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "offer_id": "259076",
-          "product_name": null,
-          "name": "SFE Energy",
-          "rate": 499.0,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Eco Natural Gas Product - 12 month embedded green fixed price of 0.499 per therm. 25% carbon offset product. No termination fee. Customer charge of $0.99 per day. LED bulb incentive. Please contact 1-877-698-0608 to enroll. Eligibility/Limitations Residential customers only.",
-          "monthly_fee": 0.99,
-          "website_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "signup_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -887,11 +869,29 @@
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
+        },
+        {
+          "offer_id": "269491",
+          "product_name": null,
+          "name": "SFE Energy",
+          "rate": 499.0,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 48,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "Eco Natural Gas Product - 48 month embedded green fixed price of 0.499 per therm. 25% carbon offset product. No termination fee. Customer charge of $1.09 per day. LED bulb incentive. Please contact 1-877-698-0608 to enroll. Eligibility/Limitations Residential customers only.",
+          "monthly_fee": 1.09,
+          "website_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
+          "signup_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-01T16:07:44.306759Z",
+      "last_fetched": "2026-09-01T20:37:07.314874Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=2"
     },
     "peoples_gas": {
@@ -1043,24 +1043,6 @@
           "website_url": "https://justenergy.com/ilchoice/",
           "signup_url": "https://justenergy.com/ilchoice/",
           "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "offer_id": "259077",
-          "product_name": null,
-          "name": "SFE Energy",
-          "rate": 0.379,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Eco Natural Gas Product - 12 month embedded green fixed price product of 0.379 per therm. 25% carbon offset. No termination fee. Customer charge of $1.49 per day. LED bulb incentive. Please contact 1-877-698-0608 to enroll. Eligibility/Limitations Residential customers only.",
-          "monthly_fee": 1.49,
-          "website_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "signup_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
         },
@@ -1315,11 +1297,29 @@
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
+        },
+        {
+          "offer_id": "269492",
+          "product_name": null,
+          "name": "SFE Energy",
+          "rate": 0.379,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 48,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "Eco Natural Gas Product - 48 month embedded green fixed price product of 0.379 per therm. 25% carbon offset. No termination fee. Customer charge of $1.59 per day. LED bulb incentive. Please contact 1-877-698-0608 to enroll. Eligibility/Limitations Residential customers only.",
+          "monthly_fee": 1.59,
+          "website_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
+          "signup_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
+          "renewable": "Yes",
+          "bundle_required": false,
+          "service_area": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-09-01T16:07:45.099730Z",
+      "last_fetched": "2026-09-01T20:37:07.693238Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=3"
     }
   }
