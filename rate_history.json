@@ -1,12 +1,37 @@
 {
-  "changes": [],
+  "changes": [
+    {
+      "date": "2026-09-01T16:07:38.648663Z",
+      "type": "utility_gas",
+      "entity_id": "north_shore_gas",
+      "entity_name": "North Shore Gas",
+      "old_rate": 0.4093,
+      "new_rate": 0.3888
+    },
+    {
+      "date": "2026-09-01T16:07:38.648670Z",
+      "type": "utility_gas",
+      "entity_id": "nicor_gas",
+      "entity_name": "Nicor Gas",
+      "old_rate": 0.36,
+      "new_rate": 0.33
+    },
+    {
+      "date": "2026-09-01T16:07:38.648672Z",
+      "type": "utility_gas",
+      "entity_id": "peoples_gas",
+      "entity_name": "Peoples Gas",
+      "old_rate": 0.3672,
+      "new_rate": 0.3145
+    }
+  ],
   "last_known_rates": {
     "electric_comed": 0.10398999999999999,
     "electric_ameren_zone_1": 0.11320000000000001,
     "electric_ameren_zone_2": 0.11320000000000001,
     "electric_ameren_zone_3": 0.11320000000000001,
-    "gas_north_shore_gas": 0.4093,
-    "gas_nicor_gas": 0.36,
-    "gas_peoples_gas": 0.3672
+    "gas_north_shore_gas": 0.3888,
+    "gas_nicor_gas": 0.33,
+    "gas_peoples_gas": 0.3145
   }
 }

@@ -52,21 +52,21 @@
     {
       "month": "2026-09",
       "type": "gas",
-      "date": "2026-09-01T03:46:49.594659Z",
+      "date": "2026-09-01T16:07:45.100745Z",
       "rates": {
         "north_shore_gas": {
           "name": "North Shore Gas",
-          "rate": 0.4093,
+          "rate": 0.3888,
           "rate_unit": "therm"
         },
         "nicor_gas": {
           "name": "Nicor Gas",
-          "rate": 0.36,
+          "rate": 0.33,
           "rate_unit": "therm"
         },
         "peoples_gas": {
           "name": "Peoples Gas",
-          "rate": 0.3672,
+          "rate": 0.3145,
           "rate_unit": "therm"
         }
       }
@@ -74,7 +74,7 @@
     {
       "month": "2026-09",
       "type": "electric",
-      "date": "2026-09-01T03:46:47.615897Z",
+      "date": "2026-09-01T16:07:42.475421Z",
       "rates": {
         "comed": {
           "name": "ComEd",
