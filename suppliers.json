@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T23:41:09.995869Z",
+  "last_updated": "2026-09-07T03:07:10.954589Z",
   "customer_class": "residential",
   "utilities": {
     "north_shore_gas": {
@@ -445,7 +445,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-06T23:41:09.018972Z",
+      "last_fetched": "2026-09-07T03:07:09.812383Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=1"
     },
     "nicor_gas": {
@@ -891,7 +891,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-06T23:41:09.537575Z",
+      "last_fetched": "2026-09-07T03:07:10.446102Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=2"
     },
     "peoples_gas": {
@@ -1319,7 +1319,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-09-06T23:41:09.995848Z",
+      "last_fetched": "2026-09-07T03:07:10.954569Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=3"
     }
   }
