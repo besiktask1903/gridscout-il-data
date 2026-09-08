@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T16:03:56.548942Z",
+  "last_updated": "2026-09-08T20:45:54.347496Z",
   "customer_class": "residential",
   "utilities": {
     "north_shore_gas": {
@@ -191,24 +191,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269263",
-          "product_name": null,
-          "name": "Nordic Energy",
-          "rate": 0.399,
-          "rate_type": "Variable",
-          "rate_unit": "therm",
-          "term_months": null,
-          "early_termination_fee": "None",
-          "introductory": "No",
-          "promotional_details": "Variable rate of 0.399/Therm for one month. No early termination fees! Variable rate of 0.399/Therm for one month. No early termination fees!",
-          "monthly_fee": null,
-          "website_url": "https://www.nordicenergy-us.com/",
-          "signup_url": "https://www.nordicenergy-us.com/",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "offer_id": "269276",
           "product_name": null,
           "name": "IDT Energy, Inc. d/b/a Ameritrust Energy",
@@ -335,24 +317,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269476",
-          "product_name": null,
-          "name": "Ambit Illinois, LLC",
-          "rate": 0.56,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "0",
-          "introductory": "Yes",
-          "promotional_details": "Manage your budget and secure your rate for 12 months. Special offer for new, online customers.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.ambitenergy.com/",
-          "signup_url": "https://www.ambitenergy.com/",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "offer_id": "269483",
           "product_name": null,
           "name": "Spark Energy Gas, LLC",
@@ -441,11 +405,47 @@
           "renewable": "No",
           "bundle_required": true,
           "service_area": null
+        },
+        {
+          "offer_id": "269504",
+          "product_name": null,
+          "name": "Nordic Energy",
+          "rate": 0.35,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "term_months": null,
+          "early_termination_fee": "None",
+          "introductory": "No",
+          "promotional_details": "Variable rate of 0.35/Therm for one month. No early termination fees! Variable rate of 0.35/Therm for one month. No early termination fees!",
+          "monthly_fee": null,
+          "website_url": "https://www.nordicenergy-us.com/",
+          "signup_url": "https://www.nordicenergy-us.com/",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "offer_id": "269508",
+          "product_name": null,
+          "name": "Ambit Illinois, LLC",
+          "rate": 0.56,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "0",
+          "introductory": "Yes",
+          "promotional_details": "Manage your budget and secure your rate for 12 months. Special offer for new, online customers.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.ambitenergy.com/",
+          "signup_url": "https://www.ambitenergy.com/",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-08T16:03:55.002576Z",
+      "last_fetched": "2026-09-08T20:45:53.037744Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=1"
     },
     "nicor_gas": {
@@ -524,24 +524,6 @@
           "monthly_fee": null,
           "website_url": "https://icc.illinois.gov/natural-gas-choice/products/product/246282",
           "signup_url": "https://icc.illinois.gov/natural-gas-choice/products/product/246282",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
-          "offer_id": "258598",
-          "product_name": null,
-          "name": "Nordic Energy",
-          "rate": 0.35,
-          "rate_type": "Variable",
-          "rate_unit": "therm",
-          "term_months": null,
-          "early_termination_fee": "None",
-          "introductory": "No",
-          "promotional_details": "Variable rate of 0.35/Therm for one month. No early termination fees! Variable rate of 0.35/Therm for one month. No early termination fees!",
-          "monthly_fee": null,
-          "website_url": "https://www.nordicenergy-us.com/",
-          "signup_url": "https://www.nordicenergy-us.com/",
           "renewable": "No",
           "bundle_required": false,
           "service_area": null
@@ -799,24 +781,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269475",
-          "product_name": null,
-          "name": "Ambit Illinois, LLC",
-          "rate": 0.55,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "0",
-          "introductory": "Yes",
-          "promotional_details": "Manage your budget and secure your rate for 12 months. Special offer for new, online customers.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.ambitenergy.com/",
-          "signup_url": "https://www.ambitenergy.com/",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "offer_id": "269481",
           "product_name": null,
           "name": "Spark Energy Gas, LLC",
@@ -887,11 +851,47 @@
           "renewable": "No",
           "bundle_required": true,
           "service_area": null
+        },
+        {
+          "offer_id": "269506",
+          "product_name": null,
+          "name": "Nordic Energy",
+          "rate": 0.295,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "term_months": null,
+          "early_termination_fee": "None",
+          "introductory": "No",
+          "promotional_details": "Variable rate of 0.295/Therm for one month. No early termination fees! Variable rate of 0.295/Therm for one month. No early termination fees!",
+          "monthly_fee": null,
+          "website_url": "https://www.nordicenergy-us.com/",
+          "signup_url": "https://www.nordicenergy-us.com/",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "offer_id": "269507",
+          "product_name": null,
+          "name": "Ambit Illinois, LLC",
+          "rate": 0.55,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "0",
+          "introductory": "Yes",
+          "promotional_details": "Manage your budget and secure your rate for 12 months. Special offer for new, online customers.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.ambitenergy.com/",
+          "signup_url": "https://www.ambitenergy.com/",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-08T16:03:55.756702Z",
+      "last_fetched": "2026-09-08T20:45:53.783936Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=2"
     },
     "peoples_gas": {
@@ -1065,24 +1065,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269264",
-          "product_name": null,
-          "name": "Nordic Energy",
-          "rate": 0.35,
-          "rate_type": "Variable",
-          "rate_unit": "therm",
-          "term_months": null,
-          "early_termination_fee": "None",
-          "introductory": "No",
-          "promotional_details": "Variable rate of 0.35/Therm for one month. No early termination fees! Variable rate of 0.35/Therm for one month. No early termination fees!",
-          "monthly_fee": null,
-          "website_url": "https://www.nordicenergy-us.com/",
-          "signup_url": "https://www.nordicenergy-us.com/",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "offer_id": "269270",
           "product_name": null,
           "name": "IDT Energy, Inc. d/b/a Ameritrust Energy",
@@ -1209,24 +1191,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269477",
-          "product_name": null,
-          "name": "Ambit Illinois, LLC",
-          "rate": 0.56,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "0",
-          "introductory": "Yes",
-          "promotional_details": "Manage your budget and secure your rate for 12 months. Special offer for new, online customers.",
-          "monthly_fee": 0.0,
-          "website_url": "https://www.ambitenergy.com/",
-          "signup_url": "https://www.ambitenergy.com/",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "offer_id": "269486",
           "product_name": null,
           "name": "Spark Energy Gas, LLC",
@@ -1315,11 +1279,47 @@
           "renewable": "No",
           "bundle_required": true,
           "service_area": null
+        },
+        {
+          "offer_id": "269505",
+          "product_name": null,
+          "name": "Nordic Energy",
+          "rate": 0.295,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "term_months": null,
+          "early_termination_fee": "None",
+          "introductory": "No",
+          "promotional_details": "Variable rate of 0.295/Therm for one month. No early termination fees! Variable rate of 0.295/Therm for one month. No early termination fees!",
+          "monthly_fee": null,
+          "website_url": "https://www.nordicenergy-us.com/",
+          "signup_url": "https://www.nordicenergy-us.com/",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
+        },
+        {
+          "offer_id": "269509",
+          "product_name": null,
+          "name": "Ambit Illinois, LLC",
+          "rate": 0.56,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "0",
+          "introductory": "Yes",
+          "promotional_details": "Manage your budget and secure your rate for 12 months. Special offer for new, online customers.",
+          "monthly_fee": 0.0,
+          "website_url": "https://www.ambitenergy.com/",
+          "signup_url": "https://www.ambitenergy.com/",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-09-08T16:03:56.548876Z",
+      "last_fetched": "2026-09-08T20:45:54.347474Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=3"
     }
   }
