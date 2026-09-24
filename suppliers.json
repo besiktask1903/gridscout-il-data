@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T00:15:26.010764Z",
+  "last_updated": "2026-09-24T16:34:52.601895Z",
   "customer_class": "residential",
   "utilities": {
     "north_shore_gas": {
@@ -425,10 +425,10 @@
           "service_area": null
         },
         {
-          "offer_id": "269544",
+          "offer_id": "269547",
           "product_name": null,
           "name": "Santanna Energy Services",
-          "rate": 0.3763,
+          "rate": 0.3808,
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 12,
@@ -445,7 +445,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-24T00:15:24.734109Z",
+      "last_fetched": "2026-09-24T16:34:51.183921Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=1"
     },
     "nicor_gas": {
@@ -871,10 +871,10 @@
           "service_area": null
         },
         {
-          "offer_id": "269543",
+          "offer_id": "269546",
           "product_name": null,
           "name": "Santanna Energy Services",
-          "rate": 0.3802,
+          "rate": 0.3847,
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 12,
@@ -891,7 +891,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 24,
-      "last_fetched": "2026-09-24T00:15:25.409210Z",
+      "last_fetched": "2026-09-24T16:34:51.769525Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=2"
     },
     "peoples_gas": {
@@ -1299,10 +1299,10 @@
           "service_area": null
         },
         {
-          "offer_id": "269545",
+          "offer_id": "269548",
           "product_name": null,
           "name": "Santanna Energy Services",
-          "rate": 0.3762,
+          "rate": 0.3807,
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 12,
@@ -1319,7 +1319,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-09-24T00:15:26.010633Z",
+      "last_fetched": "2026-09-24T16:34:52.601820Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=3"
     }
   }
