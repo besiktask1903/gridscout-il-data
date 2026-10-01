@@ -23,6 +23,22 @@
       "entity_name": "Peoples Gas",
       "old_rate": 0.3672,
       "new_rate": 0.3145
+    },
+    {
+      "date": "2026-10-01T18:05:27.816867Z",
+      "type": "utility_gas",
+      "entity_id": "north_shore_gas",
+      "entity_name": "North Shore Gas",
+      "old_rate": 0.3888,
+      "new_rate": 0.3769
+    },
+    {
+      "date": "2026-10-01T18:05:27.816876Z",
+      "type": "utility_gas",
+      "entity_id": "peoples_gas",
+      "entity_name": "Peoples Gas",
+      "old_rate": 0.3145,
+      "new_rate": 0.3283
     }
   ],
   "last_known_rates": {
@@ -30,8 +46,8 @@
     "electric_ameren_zone_1": 0.11320000000000001,
     "electric_ameren_zone_2": 0.11320000000000001,
     "electric_ameren_zone_3": 0.11320000000000001,
-    "gas_north_shore_gas": 0.3888,
+    "gas_north_shore_gas": 0.3769,
     "gas_nicor_gas": 0.33,
-    "gas_peoples_gas": 0.3145
+    "gas_peoples_gas": 0.3283
   }
 }
