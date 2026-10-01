@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T18:05:32.587421Z",
+  "last_updated": "2026-10-01T23:42:02.132969Z",
   "customer_class": "residential",
   "utilities": {
     "north_shore_gas": {
@@ -317,24 +317,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269493",
-          "product_name": null,
-          "name": "SFE Energy",
-          "rate": 0.459,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 48,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Eco Natural Gas Product - 48 month embedded green fixed price product of 0.459 per therm. 25% carbon offset. No termination fee. Customer charge of $1.39 per day. LED bulb incentive. Please contact 1-877-698-0608. Eligibility/Limitations Residential customers only.",
-          "monthly_fee": 1.39,
-          "website_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "signup_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "offer_id": "269504",
           "product_name": null,
           "name": "Nordic Energy",
@@ -444,8 +426,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 24,
-      "last_fetched": "2026-10-01T18:05:31.532981Z",
+      "count": 23,
+      "last_fetched": "2026-10-01T23:42:01.408237Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=1"
     },
     "nicor_gas": {
@@ -763,24 +745,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269491",
-          "product_name": null,
-          "name": "SFE Energy",
-          "rate": 499.0,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 48,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Eco Natural Gas Product - 48 month embedded green fixed price of 0.499 per therm. 25% carbon offset product. No termination fee. Customer charge of $1.09 per day. LED bulb incentive. Please contact 1-877-698-0608 to enroll. Eligibility/Limitations Residential customers only.",
-          "monthly_fee": 1.09,
-          "website_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "signup_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "offer_id": "269506",
           "product_name": null,
           "name": "Nordic Energy",
@@ -890,8 +854,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 24,
-      "last_fetched": "2026-10-01T18:05:32.122439Z",
+      "count": 23,
+      "last_fetched": "2026-10-01T23:42:01.757913Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=2"
     },
     "peoples_gas": {
@@ -1191,24 +1155,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269492",
-          "product_name": null,
-          "name": "SFE Energy",
-          "rate": 0.379,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 48,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Eco Natural Gas Product - 48 month embedded green fixed price product of 0.379 per therm. 25% carbon offset. No termination fee. Customer charge of $1.59 per day. LED bulb incentive. Please contact 1-877-698-0608 to enroll. Eligibility/Limitations Residential customers only.",
-          "monthly_fee": 1.59,
-          "website_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "signup_url": "https://icc.illinois.gov/www.sfeenergy.com/illinois/",
-          "renewable": "Yes",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "offer_id": "269505",
           "product_name": null,
           "name": "Nordic Energy",
@@ -1318,8 +1264,8 @@
         }
       ],
       "unlimited_suppliers": [],
-      "count": 23,
-      "last_fetched": "2026-10-01T18:05:32.587399Z",
+      "count": 22,
+      "last_fetched": "2026-10-01T23:42:02.132892Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=3"
     }
   }
