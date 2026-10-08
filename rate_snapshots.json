@@ -101,7 +101,7 @@
     {
       "month": "2026-10",
       "type": "gas",
-      "date": "2026-10-08T00:01:27.286485Z",
+      "date": "2026-10-08T18:28:28.053836Z",
       "rates": {
         "north_shore_gas": {
           "name": "North Shore Gas",
@@ -123,7 +123,7 @@
     {
       "month": "2026-10",
       "type": "electric",
-      "date": "2026-10-08T00:01:24.941702Z",
+      "date": "2026-10-08T18:28:25.981397Z",
       "rates": {
         "comed": {
           "name": "ComEd",
