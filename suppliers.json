@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T00:08:47.340054Z",
+  "last_updated": "2026-10-09T18:00:07.988581Z",
   "customer_class": "residential",
   "utilities": {
     "north_shore_gas": {
@@ -371,24 +371,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269588",
-          "product_name": null,
-          "name": "Santanna Energy Services",
-          "rate": 0.3807,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Fixed Price 12-month initial term. ONLY AVAILABLE TO NEW NORTHSHORE CUSTOMERS WHO BUNDLE GAS & ELECTRIC. Visit company URL or call us directly to see electric price and enroll in this bundled product. Ask about Santanna Rewards! Eligibility/Limitations Residential Customers Only. Requires enrollment in both gas and electric service.",
-          "monthly_fee": 0.0,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "offer_id": "269595",
           "product_name": null,
           "name": "IDT Energy, Inc. d/b/a Ameritrust Energy",
@@ -423,11 +405,29 @@
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
+        },
+        {
+          "offer_id": "269598",
+          "product_name": null,
+          "name": "Santanna Energy Services",
+          "rate": 0.3874,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "Fixed Price 12-month initial term. ONLY AVAILABLE TO NEW NORTHSHORE CUSTOMERS WHO BUNDLE GAS & ELECTRIC. Visit company URL or call us directly to see electric price and enroll in this bundled product. Ask about Santanna Rewards! Eligibility/Limitations Residential Customers Only. Requires enrollment in both gas and electric service.",
+          "monthly_fee": 0.0,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-10-09T00:08:46.154614Z",
+      "last_fetched": "2026-10-09T18:00:06.938467Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=1"
     },
     "nicor_gas": {
@@ -691,24 +691,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269462",
-          "product_name": null,
-          "name": "American Power & Gas of IL, LLC",
-          "rate": 0.479,
-          "rate_type": "Variable",
-          "rate_unit": "therm",
-          "term_months": 48,
-          "early_termination_fee": "None",
-          "introductory": "No",
-          "promotional_details": "AP&G Intro Rate Intro rate with a variable rate thereafter, plus eligible for a 25% rebate on your average monthly supply charges after 12 months. No monthly fees. No minimum stay requirement. No termination fees!",
-          "monthly_fee": null,
-          "website_url": "https://www.americanpowerandgas.com/",
-          "signup_url": "https://www.americanpowerandgas.com/",
-          "renewable": "No",
-          "bundle_required": false,
-          "service_area": null
-        },
-        {
           "offer_id": "269506",
           "product_name": null,
           "name": "Nordic Energy",
@@ -799,24 +781,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269587",
-          "product_name": null,
-          "name": "Santanna Energy Services",
-          "rate": 0.3845,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Fixed Price 12-month initial term. ONLY AVAILABLE TO NEW NICOR CUSTOMERS WHO BUNDLE GAS & ELECTRIC. Visit company URL or call us directly to see electric price and enroll in this bundled product. Ask about Santanna Rewards! Eligibility/Limitations Residential Customers Only. Requires enrollment in both gas and electric service.",
-          "monthly_fee": 0.0,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "offer_id": "269592",
           "product_name": null,
           "name": "IDT Energy, Inc. d/b/a Ameritrust Energy",
@@ -851,11 +815,47 @@
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
+        },
+        {
+          "offer_id": "269597",
+          "product_name": null,
+          "name": "Santanna Energy Services",
+          "rate": 0.391,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "Fixed Price 12-month initial term. ONLY AVAILABLE TO NEW NICOR CUSTOMERS WHO BUNDLE GAS & ELECTRIC. Visit company URL or call us directly to see electric price and enroll in this bundled product. Ask about Santanna Rewards! Eligibility/Limitations Residential Customers Only. Requires enrollment in both gas and electric service.",
+          "monthly_fee": 0.0,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
+        },
+        {
+          "offer_id": "269600",
+          "product_name": null,
+          "name": "American Power & Gas of IL, LLC",
+          "rate": 0.495,
+          "rate_type": "Variable",
+          "rate_unit": "therm",
+          "term_months": 48,
+          "early_termination_fee": "None",
+          "introductory": "No",
+          "promotional_details": "AP&G Intro Rate Intro rate with a variable rate thereafter, plus eligible for a 25% rebate on your average monthly supply charges after 12 months. No monthly fees. No minimum stay requirement. No termination fees!",
+          "monthly_fee": null,
+          "website_url": "https://www.americanpowerandgas.com/",
+          "signup_url": "https://www.americanpowerandgas.com/",
+          "renewable": "No",
+          "bundle_required": false,
+          "service_area": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-10-09T00:08:46.555585Z",
+      "last_fetched": "2026-10-09T18:00:07.462875Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=2"
     },
     "peoples_gas": {
@@ -1209,24 +1209,6 @@
           "service_area": null
         },
         {
-          "offer_id": "269589",
-          "product_name": null,
-          "name": "Santanna Energy Services",
-          "rate": 0.3806,
-          "rate_type": "Fixed",
-          "rate_unit": "therm",
-          "term_months": 12,
-          "early_termination_fee": "$0",
-          "introductory": "No",
-          "promotional_details": "Fixed Price 12-month initial term. ONLY AVAILABLE TO NEW PEOPLES CUSTOMERS WHO BUNDLE GAS & ELECTRIC. Visit company URL or call us directly to see electric price and enroll in this bundled product. Ask about Santanna Rewards! Eligibility/Limitations Residential Customers Only. Requires enrollment in both gas and electric service.",
-          "monthly_fee": 0.0,
-          "website_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
-          "renewable": "No",
-          "bundle_required": true,
-          "service_area": null
-        },
-        {
           "offer_id": "269590",
           "product_name": null,
           "name": "IDT Energy, Inc. d/b/a Ameritrust Energy",
@@ -1261,11 +1243,29 @@
           "renewable": "Yes",
           "bundle_required": false,
           "service_area": null
+        },
+        {
+          "offer_id": "269599",
+          "product_name": null,
+          "name": "Santanna Energy Services",
+          "rate": 0.3871,
+          "rate_type": "Fixed",
+          "rate_unit": "therm",
+          "term_months": 12,
+          "early_termination_fee": "$0",
+          "introductory": "No",
+          "promotional_details": "Fixed Price 12-month initial term. ONLY AVAILABLE TO NEW PEOPLES CUSTOMERS WHO BUNDLE GAS & ELECTRIC. Visit company URL or call us directly to see electric price and enroll in this bundled product. Ask about Santanna Rewards! Eligibility/Limitations Residential Customers Only. Requires enrollment in both gas and electric service.",
+          "monthly_fee": 0.0,
+          "website_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "signup_url": "https://santannaenergyservices.com/offers/?utm_source=icc.illinois.gov&utm_medium=referral&utm_campaign=title-link&strategyGuid=30ce3c13-a301-46a6-82fe-22c7a16589d3",
+          "renewable": "No",
+          "bundle_required": true,
+          "service_area": null
         }
       ],
       "unlimited_suppliers": [],
       "count": 22,
-      "last_fetched": "2026-10-09T00:08:47.339975Z",
+      "last_fetched": "2026-10-09T18:00:07.988518Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=3"
     }
   }
