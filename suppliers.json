@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T03:42:55.669415Z",
+  "last_updated": "2026-10-14T16:38:08.391681Z",
   "customer_class": "residential",
   "utilities": {
     "north_shore_gas": {
@@ -427,7 +427,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-10-14T03:42:55.027844Z",
+      "last_fetched": "2026-10-14T16:38:07.125849Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=1"
     },
     "nicor_gas": {
@@ -835,10 +835,10 @@
           "service_area": null
         },
         {
-          "offer_id": "269607",
+          "offer_id": "269611",
           "product_name": null,
           "name": "Santanna Energy Services",
-          "rate": 0.3931,
+          "rate": 0.3932,
           "rate_type": "Fixed",
           "rate_unit": "therm",
           "term_months": 12,
@@ -855,7 +855,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 23,
-      "last_fetched": "2026-10-14T03:42:55.342314Z",
+      "last_fetched": "2026-10-14T16:38:07.759195Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=2"
     },
     "peoples_gas": {
@@ -1265,7 +1265,7 @@
       ],
       "unlimited_suppliers": [],
       "count": 22,
-      "last_fetched": "2026-10-14T03:42:55.669353Z",
+      "last_fetched": "2026-10-14T16:38:08.391601Z",
       "source_url": "https://icc.illinois.gov/natural-gas-choice/products?mid=R&said=3"
     }
   }
